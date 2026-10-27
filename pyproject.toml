@@ -7,7 +7,7 @@ name = "agent-posture-guard"
 version = "0.1.0"
 description = "Multi-client clean-room repo/worktree boundary guard, RFC 8032 Ed25519 session attestations, and invoice-ready token/seat spend attribution."
 readme = "README.md"
-license = { text = "MIT" }
+license = "MIT"
 requires-python = ">=3.11"
 authors = [{ name = "Agent Posture Guard Contributors" }]
 keywords = [
